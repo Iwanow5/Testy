@@ -2,7 +2,7 @@
 export default function HomePage(){
     return (
         <div>
-            <p>Aman Ahmmed 22362801</p>
+            <p>Silly Goose</p>
         </div>
     )
 }
